@@ -13,6 +13,8 @@ Learn grahics.png - График обучения алгоритмов : PPO bas
 
 dqn_baseline_demo.mp4 - Видео демонстрация работы лучшего алгоритма после обучения
 
+![Learn grahics.png]
+
 
 
 
