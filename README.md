@@ -13,6 +13,9 @@ Learn grahics.png - График обучения алгоритмов : PPO bas
 
 dqn_baseline_demo.mp4 - Видео демонстрация работы лучшего алгоритма после обучения
 
+![Графики обучения](https://github.com/a0916776295-cmyk/MIHPI-3-Semest-RL-Session_HW/blob/main/Learn%20grahics.png)
+
+
 
 
 
